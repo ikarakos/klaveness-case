@@ -1,0 +1,103 @@
+{
+  "contracts": [
+    {
+      "id": "ecc41480-6dc4-48c5-8dbf-1c3f8d980226",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "asdasdas",
+      "periodStart": "uyhuyy",
+      "scheduledForRenewal": "asdaas",
+      "negotiationRenewalDate": "dasdad"
+    },
+    {
+      "id": "315d5841-48be-4108-afd4-e336eb1c3802",
+      "company": "my company",
+      "contractId": "fsdgsdg",
+      "periodEnd": "fgsdgsdg",
+      "periodStart": "fgdsfgsdg",
+      "scheduledForRenewal": "fgsdgsdg",
+      "negotiationRenewalDate": "gsdgfsdgsd"
+    },
+    {
+      "id": "da81a80c-e261-483e-9a65-e80ec3930e03",
+      "company": "BV. whatever",
+      "contractId": "1231231",
+      "periodEnd": "Date",
+      "periodStart": "Date",
+      "scheduledForRenewal": "243423",
+      "negotiationRenewalDate": "324234"
+    },
+    {
+      "id": "18b3b718-26d9-490a-8543-4c5b99b45ebc",
+      "company": "asdasda",
+      "contractId": "safasfas",
+      "periodEnd": "fasfasfa",
+      "periodStart": "asfasfas",
+      "scheduledForRenewal": "fasfasfa",
+      "negotiationRenewalDate": "asfasfa"
+    },
+    {
+      "id": "7c0ad1e5-809c-4071-bec4-0759c176a01b",
+      "company": "324234",
+      "contractId": "sfsdf",
+      "periodEnd": "234234",
+      "periodStart": "fsdfdf",
+      "scheduledForRenewal": "342342",
+      "negotiationRenewalDate": "fsdfsd"
+    },
+    {
+      "id": "fd267339-2370-408c-864d-0d231c54d081",
+      "company": "12312312",
+      "contractId": "123123123",
+      "periodEnd": "131231231",
+      "periodStart": "12323123",
+      "scheduledForRenewal": "11231231",
+      "negotiationRenewalDate": "23123123"
+    },
+    {
+      "id": "1cca8ff9-8372-4e05-b64e-3b17e10c93b9",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "1",
+      "periodStart": "1",
+      "scheduledForRenewal": "1",
+      "negotiationRenewalDate": "1"
+    },
+    {
+      "id": "eaaf532a-7aeb-49f5-a146-447c236e2ebd",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "1",
+      "periodStart": "1",
+      "scheduledForRenewal": "1",
+      "negotiationRenewalDate": "1"
+    },
+    {
+      "id": "93a2a1a0-42e9-4515-9082-eca3d4f51d0a",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "1",
+      "periodStart": "1",
+      "scheduledForRenewal": "11",
+      "negotiationRenewalDate": "1"
+    },
+    {
+      "id": "2e50f491-ad4c-4641-bde6-86b8814bf78b",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "1",
+      "periodStart": "1",
+      "scheduledForRenewal": "1",
+      "negotiationRenewalDate": "1"
+    },
+    {
+      "id": "b1c55e84-56da-4daf-b6db-ca557a764764",
+      "company": "1",
+      "contractId": "1",
+      "periodEnd": "",
+      "periodStart": "1",
+      "scheduledForRenewal": "",
+      "negotiationRenewalDate": "2"
+    }
+  ]
+}
